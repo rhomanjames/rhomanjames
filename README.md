@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Michael James
+- 👋 Hi, I’m John James
 - 👀 I’m interested in everything Front End Development, particularly REACT!
 - 🌱 I’m continuing to master React and various 3rd party API integrations
 - 💞️ I’m looking to collaborate on projects that involve the newest technology in frontend development -- Anything that can help me learn and grow!
