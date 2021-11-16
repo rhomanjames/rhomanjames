@@ -1,6 +1,5 @@
-- 👋 Hi, I’m John James
-- 👀 I’m interested in everything Front End Development, particularly REACT!
-- 🧠 I use Psychology to create innovative web designs -- I'm a UI/UX guy! 
-- 🌱 I’m continuing to master React and various 3rd party API integrations
+- 👋 My name's Rhoman, but I go by John James
+- 🧠 I use Psychology to create innovative web and app designs! 
+- 🌱 UX Design, Research and Writing are my specialties.
 - 💞️ I’m looking to collaborate on projects that involve the newest technology in frontend development -- Anything that can help me learn and grow!
 - 📫 Contact me at rhomanmjames@gmail.com
